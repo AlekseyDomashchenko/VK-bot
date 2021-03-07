@@ -1,0 +1,33 @@
+{
+  "one_time": false,
+  "buttons": [
+    [
+
+      {
+        "action": {
+          "type": "text",
+          "label": "1"
+        },
+        "color": "primary"
+      },
+
+      {
+        "action": {
+          "type": "text",
+          "label": "2"
+        },
+        "color": "positive"
+      },
+
+      {
+        "action": {
+          "type": "text",
+          "label": "3"
+        },
+        "color": "primary"
+      }
+
+
+     ]
+   ]
+}

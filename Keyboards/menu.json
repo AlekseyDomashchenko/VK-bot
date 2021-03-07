@@ -1,0 +1,32 @@
+{
+  "one_time": false,
+  "buttons": [
+    [
+
+      {
+        "action": {
+          "type": "text",
+          "label": "Перевод"
+        },
+        "color": "primary"
+      },
+
+      {
+        "action": {
+          "type": "text",
+          "label": "Поиск фильма"
+        },
+        "color": "secondary"
+      },
+
+      {
+        "action": {
+          "type": "text",
+          "label": "История одного фильма"
+        },
+        "color": "positive"
+      }
+
+     ]
+   ]
+}
